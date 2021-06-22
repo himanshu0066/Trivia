@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="quiz_app">QUIZ APP</string>
+    <string name="name">Name</string>
+    <string name="next">NEXT</string>
+</resources>
